@@ -74,8 +74,6 @@ Temperature -> 28
 Humidity -> 64
 ```
 
-![UART output example](uart_output_screenshot.png)
-
 ## Key Learning Outcomes
 
 - FreeRTOS task scheduling
