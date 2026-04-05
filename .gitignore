@@ -1,0 +1,25 @@
+# STM32/embedded project ignores
+Debug/
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.log
+*.dep
+*.map
+*.list
+*.axf
+*.rpt
+*.lss
+*.srec
+*.iobj
+*.lst
+*.svd
+*.uvoptx
+*.uvprojx
+*.cache
+*.vdproj
+Thumbs.db
+.DS_Store
